@@ -1,4 +1,4 @@
-module github.com/tenntenn/slide2png
+module github.com/tenntenn/slide2img
 
 go 1.20
 
